@@ -69,11 +69,6 @@
                     <i class="icon-double-angle-right"></i>添加菜品分类
                 </a>
             </li>
-            <li>
-                <a href="/addCategory">
-                    <i class="icon-double-angle-right"></i>添加菜品aaa
-                </a>
-            </li>
         </ul>
     </li>
 </ul><!-- /.nav-list -->
